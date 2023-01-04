@@ -17,6 +17,7 @@ namespace KT_HUONGGIANG.Logic
         public Department(string id, string name)
         {
 
+////
             this.IdDeparment = id;
             this.Name = name;
         }
